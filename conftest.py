@@ -5,7 +5,7 @@ def browser_context_args(browser_context_args):
     return {
       
         "viewport": {
-            "width": 1680,
-            "height": 1050,
+            "width": 1920,
+            "height": 1080,
         }
     }
